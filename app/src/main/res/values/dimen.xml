@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="diolg_background_radius">30dp</dimen>
+
+    <dimen name="list_item_view_width_percent">0.7</dimen>
+</resources>

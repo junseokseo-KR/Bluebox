@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362200800809",
+    "firebase_url": "https://bluebox-dacc6.firebaseio.com",
+    "project_id": "bluebox-dacc6",
+    "storage_bucket": "bluebox-dacc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362200800809:android:0faf9e6de32ecb3effc638",
+        "android_client_info": {
+          "package_name": "com.junseok.bluebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362200800809-pqg432mgcvnv2vorbgr0br288bm7o1lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junseok.bluebox",
+            "certificate_hash": "e10115a3e4605e5dc4aab57c9b680e7d6fa1a425"
+          }
+        },
+        {
+          "client_id": "362200800809-7eieuame94gm17ds9tmfokpglaetr6nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIFbSmBxWgb-ArHCN4DQDBFPybKlJYLHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362200800809-7eieuame94gm17ds9tmfokpglaetr6nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

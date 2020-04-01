@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="tabOffColor">#444B54</color>
+
+    <color name="applicationBackground">#2A2C36</color>
+    <color name="divBackground_1">#1D2027</color>
+    <color name="divBackground_2">#3A404C</color>
+
+    <color name="textColor">#FFFFFF</color>
+    <color name="textHalfColor">#80FFFFFF</color>
+    <color name="primaryBtnColor">#0077F9</color>
+    <color name="secondBtnColor">#CAC7CD</color>
+
+    <color name="listBackground">#393543</color>
+    <color name="itemBackground_1">#3A404C</color>
+    <color name="itemBackground_2">#2a2d36</color>
+
+    <color name="indigo">#385782</color>
+
+
+    <color name="normalteal">#00989D</color>
+    <color name="teal">#00878F</color>
+    <color name="lightteal">#62AEB2</color>
+    <color name="heavyteal">#008184</color>
+    <color name="orange">#E47128</color>
+    <color name="yellow">#E5AD24</color>
+    <color name="brown">#8C7965</color>
+</resources>
