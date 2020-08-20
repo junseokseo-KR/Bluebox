@@ -34,3 +34,4 @@
       * 비밀번호 3회 실패시 경보음 작동
 4. 시연 영상
    1. <a href="https://www.youtube.com/watch?v=5LMG8g9TP5U">어플리케이션 시연</a>
+   2. <a href="https://www.youtube.com/watch?v=effrFTRTIs8">임베디드 시연</a>
